@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499782962829",
+    "project_id": "fl-case-app",
+    "storage_bucket": "fl-case-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499782962829:android:e32d3c0ab2ce6ef5791cc4",
+        "android_client_info": {
+          "package_name": "com.scolata.flcaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAxA2GfJqbfRWvbUCzHha3hQuwPuJ9bR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

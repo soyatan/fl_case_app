@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA1B1y8EDWti0AkV65_1em1P3cYe7-vDUs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499782962829</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.scolata.fl-case-app</string>
+	<key>PROJECT_ID</key>
+	<string>fl-case-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fl-case-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499782962829:ios:92c61ccf989ff42d791cc4</string>
+</dict>
+</plist>
